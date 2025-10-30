@@ -2,7 +2,7 @@ dids:
   - &me "did:plc:2shmwstgqmlu4ymg7ctjcdc7"
 
 lists:
-  - name: Blocked by qazm.bsky.social
+  - name: Blocked by qazm.de
     did: *me
     rkey: "my-blocks"
     # General format for `entries` is:
